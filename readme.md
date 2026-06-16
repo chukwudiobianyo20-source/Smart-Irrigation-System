@@ -32,7 +32,7 @@ The system employs **closed-loop adaptive control**, adjusting irrigation schedu
 | SPDT Relay | 1 | 5V 2-channel relay module |
 | Water Pump | 1 | Submersible/Inline water pump |
 | I2C LCD | 1 | 16x2 LCD with I2C interface |
-| Power Supply | 1 | 9V-12V DC power adapter |
+| Power Supply | 1 | 0V-12V DC power adapter |
 | Jumper Wires | - | Various for connections |
 
 ## Pin Configuration
